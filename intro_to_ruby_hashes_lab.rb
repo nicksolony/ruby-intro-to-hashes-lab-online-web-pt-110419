@@ -43,13 +43,11 @@ def monopoly_with_third_tier
 	    names:{
 	      reading_railroad:{},
 	      pennsylvania_railroad:{},
-<<<<<<< HEAD
+
 	      b_and_o_railroad:{},
 	      shortline_railroad:{}
-=======
 	      3=> {},
 	      4=> {}
->>>>>>> db90e652af3422a3674e4238d2ce9de61dc99752
 	    }
 	  }
 	}
